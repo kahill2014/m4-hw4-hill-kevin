@@ -1,0 +1,1 @@
+var pizza = new Object();
