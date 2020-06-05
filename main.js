@@ -12,3 +12,4 @@ function orderPizza(){
 	console.log('Sauce: ' + pizza.sauce);
 	console.log('Toppings: ' + pizza.addToppings);
 }
+orderPizza();
