@@ -6,3 +6,9 @@ var pizza = {
 		console.log('Please add pepperoni and sausage');
 	}
 };
+function orderPizza(){
+	console.log('Crust: ' + pizza.crust);
+	console.log('Cheese: ' + pizza.cheese);
+	console.log('Sauce: ' + pizza.sauce);
+	console.log('Toppings: ' + pizza.addToppings);
+}
